@@ -1,7 +1,11 @@
 {
   "packs": [
     "UhArtemium.json",
-    "Yakov.json"
+    "Yakov.json",
+    "Meme_stickers.json",
+    "TheBestMovie.json",
+    "abramacabre.json",
+    "astonished_woman.json"
   ],
   "homeserver_url": "https://matrix.pipipupu.info"
 }
