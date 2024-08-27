@@ -1,6 +1,7 @@
 {
   "packs": [
-    "UhArtemium.json"
+    "UhArtemium.json",
+    "Yakov.json"
   ],
   "homeserver_url": "https://matrix.pipipupu.info"
 }
